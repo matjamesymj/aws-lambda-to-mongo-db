@@ -3,6 +3,8 @@ Lambda to MongoDB Proof Of Concept
 
 POC project to demonstrate potential connection methods to MongoDB from LAMBDA functions
 
+Blog post: https://allwebwork.co.uk/2021/02/06/node-js-lambda-and-mongo-db-connections-analysis/
+
 The below links were used and code has been taken from various sources for speed.
 
 Useful links:
